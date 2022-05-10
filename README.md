@@ -1,3 +1,6 @@
+Requeirement:Rating according to value give Disable add to cart button when added to the card Remove item from cart & enable add to cart. 
+ https://startbootstrap.com/previews/shop-homepage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
