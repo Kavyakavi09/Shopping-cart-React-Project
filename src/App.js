@@ -190,7 +190,7 @@ function App() {
 
       {/* Section starts*/}
       <section className="pt-4 pb-5">
-        <div className="container px-4 px-lg-5 mt-5">
+        <div className="container mt-5 px-4">
           <div className="row">
             <div className="col-lg-9 order-2 order-lg-1">
               <div className="row gx-4 row-cols-1 row-cols-md-2 row-cols-lg-2 row-cols-xl-3 justify-content-center">
