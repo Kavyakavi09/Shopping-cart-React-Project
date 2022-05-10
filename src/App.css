@@ -1,0 +1,40 @@
+.badge:hover {
+  background-color: black !important;
+  color: white !important;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 400px !important;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #ffc107 !important;
+  font-family: cursive;
+  font-size: 1.8rem !important;
+}
+
+.navbar-brand::first-letter {
+  color: rgb(232, 14, 14);
+}
+
+.image {
+  width: 400px !important;
+  height: 250px !important;
+}
+
+.card {
+  transition: box-shadow 0.5s ease-in-out;
+}
+
+.card:hover {
+  box-shadow: -1px 3px 14px 3px rgba(0, 0, 0, 0.43);
+}
+
+@media (max-width: 450px) {
+  .carousel-item img {
+    width: 100%;
+    height: 200px !important;
+  }
+}
