@@ -1,9 +1,9 @@
 Requirement:Rating according to value give Disable add to cart button when added to the card Remove item from cart & enable add to cart. 
  https://startbootstrap.com/previews/shop-homepage
  
-### [Live site](https://shopping-cart-project-react.netlify.app/)
+### Live site(https://shopping-cart-project-react.netlify.app/)
  Shopping Cart project
- <a href="https://ibb.co/LYpjr5C"><img src="https://i.ibb.co/sb3xCHF/reactshop.png" alt="reactshop" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>picture upload sites free</a><br />
+ <a href="https://ibb.co/LYpjr5C"><img src="https://i.ibb.co/sb3xCHF/reactshop.png" alt="reactshop" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 # Getting Started with Create React App
 
